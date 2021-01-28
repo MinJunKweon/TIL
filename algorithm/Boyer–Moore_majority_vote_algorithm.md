@@ -20,7 +20,7 @@ Majority Element의 출현 횟수 > 다른 Elements들의 출현횟수
 
 ### 로직
 
-![image-20210128204819069](C:\Users\Minz\AppData\Roaming\Typora\typora-user-images\image-20210128204819069.png)
+![image-20210128211323315](./assets/image-20210128211323315.png)
 
 1. `majority`, `appear_count` 변수 선언
    * `majority` : 과반수로 많이 출현한 정수
